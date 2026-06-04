@@ -1,0 +1,11 @@
+# 原始录音与转写稿,严禁提交
+*.txt
+录音*
+*转写*
+/raw/
+/private/
+
+# 系统与编辑器
+.DS_Store
+.idea/
+.vscode/
